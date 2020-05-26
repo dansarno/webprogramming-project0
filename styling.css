@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  color: #414141; /*Dark grey*/
+  background-color: #EEEEEE;    /* Light gray */
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 3EM;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+ul, ol {
+  margin-left: 40px;
+}
+
+button {
+  padding: 0 20px 0 20px;
+}
+
+table, th, td {
+  border: 2px solid black;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+th {
+  background: lightgray;
+}
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+
+.intro{
+  font-style: italic
+}
